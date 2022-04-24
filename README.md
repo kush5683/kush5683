@@ -14,7 +14,7 @@
 <img width="25%" align="right" alt="Github" src="https://avatars.githubusercontent.com/u/32845063?v=4" />
 
 
-- 🔭 I’m currently working on Getting my Degree
+- 🔭 I’m currently working on getting my undergraduate degree from Worcester Polytechnic Institute.
 
 - 🌱 I’m currently learning Everything I possibly can! 
 
