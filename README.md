@@ -1,5 +1,8 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=poblouin.poblouin)
 
+<div size='20px'> Hi! My name is Kush Shah. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 <!--
 **kush5683/kush5683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
