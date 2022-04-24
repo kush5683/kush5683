@@ -11,7 +11,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://avatars.githubusercontent.com/u/32845063?v=4" />
+<img width="25%" align="right" alt="Github" src="https://avatars.githubusercontent.com/u/32845063?v=4" />
 
 
 - 🔭 I’m currently working on Getting my Degree
