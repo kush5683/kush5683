@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing my Undergraduate Degree in Computer Science at WPI<br><br>My main interests are cybersecurity (application/network security), application development and Artificial Intelligence<br><br>
+👨🏽‍🎓 I am currently pursuing my Undergraduate Degree in Computer Science at WPI<br><br> 😀 My main interests are cybersecurity (application/network security), application development and Artificial Intelligence<br><br>
 
 
 ## 🌐 Socials:
